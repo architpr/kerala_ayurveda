@@ -2,7 +2,6 @@
 
 > **A robust AI System designed to bridge the gap between structured medical safety constraints and unstructured educational content.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![RAG](https://img.shields.io/badge/Architecture-Hybrid%20RAG-green)](./rag_system_design_part_a.md)
 
